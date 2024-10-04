@@ -1,7 +1,7 @@
 ![sac](https://github.com/user-attachments/assets/533f78ea-894d-4143-94bc-d20d7b58c7a3)
 
-![Uploading E![Ekran görüntüsü 2024-09-30 185801](https://github.com/user-attachments/assets/4b1be5d0-92e9-4836-b6a1-6796a734d81c)
-kran görüntüsü 2024-09-30 185748.png…]()
+
+
 ![Ekran görüntüsü 2024-09-30 185725](https://github.com/user-attachments/assets/04e9484f-8ada-451f-b0f8-17c66a4e8e38)
 ![Ekran görüntüsü 2024-09-30 185644](https://github.com/user-attachments/assets/d3ff6246-4f6f-4ff7-88d5-781bc731824a)
 ![Ekran görüntüsü 2024-09-30 185545](https://github.com/user-attachments/assets/85a60b32-e832-4ac3-829f-908011472126)
