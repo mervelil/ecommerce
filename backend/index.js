@@ -16,8 +16,8 @@ const { error } = require('console');
 
 app.use(express.json());
 app.use(cors());
-
-mongoose.connect("mongodb://ecommerceMern:user123@cluster0-shard-00-00.ngbqq.mongodb.net:27017,cluster0-shard-00-01.ngbqq.mongodb.net:27017,cluster0-shard-00-02.ngbqq.mongodb.net:27017/ecommerce-mern?ssl=true&replicaSet=atlas-12a2sh-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0")
+// need to add mongo password and username in here for connection otherwise it can not be work 
+mongoose.connect("mongodb://ecommerceMern:@cluster0-shard-00-00.ngbqq.mongodb.net:27017,cluster0-shard-00-01.ngbqq.mongodb.net:27017,cluster0-shard-00-02.ngbqq.mongodb.net:27017/ecommerce-mern?ssl=true&replicaSet=atlas-12a2sh-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0")
 const storage=multer.diskStorage({
     destination:'./upload/images',
     filename:(req,file,cb)=> {
